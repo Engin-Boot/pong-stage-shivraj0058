@@ -1,4 +1,4 @@
-## Feature
+# Feature
 
 Checks for the Collision of the Ball
 
@@ -9,5 +9,3 @@ Checks for the Collision of the Ball
   When Ball Collides with the paddle
 
   Then go to Scoring module and update the score of the player
-  
- 
