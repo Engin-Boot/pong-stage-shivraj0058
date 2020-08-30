@@ -6,11 +6,8 @@ Checks for the Collision of the Ball
 
   Given The game has started
 
-  When Ball Collides with <Horizontal wall/Vertical Wall/paddle>
+  When Ball Collides with the paddle
 
-  Then go to the module <modulename>
+  Then go to Scoring module and update the score of the player
   
-  Examples:
-    |Horizontal wall/Vertical Wall/paddle  |modulename     |
-    |Paddle                                |Scorin         |
-    |Vertical wall                         |Stop_game      |
+ 
