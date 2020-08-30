@@ -2,7 +2,7 @@
 
 Checks for the Collision of the Ball
 
-### Scenario: Check for the Collision of the ball with wall or the paddle
+## Scenario: Check for the Collision of the ball with wall or the paddle
 
   Given The game has started
 
