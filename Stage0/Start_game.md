@@ -12,4 +12,4 @@ Start the Game
 
   When Player Clicks on Start Game
   
-  Then Start Moving the ball
+  Then Find Opponent and Start Moving the ball
