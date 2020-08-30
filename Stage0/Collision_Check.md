@@ -8,4 +8,4 @@ Checks for the Collision of the Ball
 
   When Ball Collides with the paddle
 
-  Then go to Scoring module and update the score of the player
+  Then Call the Scoring module to update the score of the player
