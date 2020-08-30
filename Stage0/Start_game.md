@@ -1,6 +1,4 @@
-# -give-this-module-a-name
-
-## Feature
+# Feature
 
 Start the Game
 
