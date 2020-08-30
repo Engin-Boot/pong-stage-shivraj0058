@@ -11,6 +11,5 @@ Start the Game
   Given Player Starts the game application
 
   When Player Clicks on Start Game
-
-  Then Start Moving the ball 
-
+  
+  Then Start Moving the ball
