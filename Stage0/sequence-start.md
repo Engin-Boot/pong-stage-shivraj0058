@@ -10,7 +10,7 @@ when the player starts the game, the start game modules finds the opponent
 for the player.
 When the opponent is found it calls move ball module which starts moving the ball.
 Move paddle module is called When the game is started and when player tries to
-scroll the paddle is moved in the same direction.Collision Check checks for the
+scroll the paddle is moved in the same direction. Collision Check checks for the
 collisions and if there is a collision between ball and paddle then it
 the scoring module is called to update the score of the player,
 and if there is a collision between ball and vertical wall which indicates
