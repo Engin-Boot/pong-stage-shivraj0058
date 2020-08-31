@@ -19,5 +19,5 @@ two players is gathered and winner is declared.
 
 ## One score
 
-When there is a collision between ball and the paddle Collision_check module interacts with 
-the Scoring module and updates the score.
+When there is a collision between ball and the paddle Collision_check
+module interacts with the Scoring module and updates the score.
